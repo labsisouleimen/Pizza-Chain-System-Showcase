@@ -39,6 +39,7 @@ Enterprise-grade Multi-Branch ERP System: Master Admin control, Dynamic Branch a
 ### 2️⃣ Dynamic Branch Desktop (The POS Terminal)
 * **Code-Based Activation:** The app dynamically configures its identity based on the "Branch Code".
 * **Instant Cloud Sync:** Every sale is pushed to the cloud immediately for the owner to see.
+  
 
 ### 3️⃣ Mobile Tracker (Remote Monitoring)
 * **Live Sales Feed:** Monitor transactions second-by-second from home or anywhere.
@@ -46,3 +47,8 @@ Enterprise-grade Multi-Branch ERP System: Master Admin control, Dynamic Branch a
 
 ---
 > **Note:** This is a private commercial project. The source code is hidden to protect intellectual property.
+> ---
+## 📩 Contact Me
+Have questions or interested in this system? Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/souleimen-labsi-5937783ab/)
