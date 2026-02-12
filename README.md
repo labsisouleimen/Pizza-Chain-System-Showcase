@@ -1,4 +1,6 @@
 # 🍕 Pizza-Chain-System-Showcase
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Framework](https://img.shields.io/badge/UI-Tkinter-green?style=for-the-badge)
 
 Enterprise-grade Multi-Branch ERP System: Master Admin control, Dynamic Branch activation via secure codes, and Real-time Mobile monitoring for owners.
 ## 📸 Comprehensive Visual Showcase
