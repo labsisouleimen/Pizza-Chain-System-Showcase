@@ -50,6 +50,13 @@ Enterprise-grade Multi-Branch ERP System: Master Admin control, Dynamic Branch a
 ---
 > **Note:** This is a private commercial project. The source code is hidden to protect intellectual property.
 > ---
+
+## 📜 License
+This project is licensed under the **MIT License** - meaning you can freely use, modify, and distribute it, provided you give credit to the original author.
+
+---
+
+
 ## 📩 Contact Me
 Have questions or interested in this system? Let's connect!
 
